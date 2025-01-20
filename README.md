@@ -1,25 +1,21 @@
-<p align="left">Hello World!!</p>
+# 👋 Olá, eu sou o Vitor Sousa!
 
-###
+## 💻 Backend Developer 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### 🛠️ Tecnologias & Ferramentas
+- Linguagens: Python, Node.js
+- Frameworks: [Liste seus frameworks]
+- Databases: [Liste seus bancos de dados]
+- Tools: Git, [outras ferramentas]
 
-###
+### 📊 GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorSousa01&show_icons=true&theme=dark)
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+### 🚀 Projetos em Destaque
+- **aura-foundation**: Plataforma inovadora com Next.js, React, Node.js e Python
+- [Adicione outros projetos relevantes]
 
-###
-<!---
-ViitorSousa01/ViitorSousa01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](seu-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](seu-twitter)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](seu-instagram)
