@@ -4,8 +4,8 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 - Linguagens: Python, Node.js, javascript 
-- Frameworks: [React, angular]
-- Databases: [Json, MySQL]
+- Frameworks: React, angular
+- Databases: Json, MySQL 
 
 
 ### 📊 GitHub Stats
