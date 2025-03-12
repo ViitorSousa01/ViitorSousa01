@@ -3,17 +3,17 @@
 ## 💻 Backend Developer 
 
 ### 🛠️ Tecnologias & Ferramentas
-- Linguagens: Python, Node.js
-- Frameworks: [Liste seus frameworks]
-- Databases: [Liste seus bancos de dados]
-- Tools: Git, [outras ferramentas]
+- Linguagens: Python, Node.js, javascript 
+- Frameworks: [React, angular]
+- Databases: [Json, MySQL]
+
 
 ### 📊 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorSousa01&show_icons=true&theme=dark)
 
 ### 🚀 Projetos em Destaque
 - **aura-foundation**: Plataforma inovadora com Next.js, React, Node.js e Python
-- [Adicione outros projetos relevantes]
+
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](seu-linkedin)
